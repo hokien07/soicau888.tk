@@ -1,0 +1,35 @@
+body {
+	background-image: url('img/background.jpg') center;
+}
+.my-nav {
+	background-color: #337AB7;
+}
+.nav-pills .btn {
+	display: none;
+}
+.navbar-nav > li > a {
+	text-transform: uppercase;;
+}
+.navbar-nav > li > a:hover {
+	background-color: #F2DEDE;
+	color: #5F5F5F;
+}
+.col-sm-3 > h1{
+	margin-top: 10px;
+	margin-left: 20px;
+	font-size: 21px;
+	text-transform: uppercase;
+}
+.col-sm-3 h1 a {
+	color: #fff;
+}
+.panel-heading {
+	text-transform: uppercase;
+}
+.list-group-item {
+	text-transform: uppercase;
+}
+footer {
+	border-top: 2px solid #D9EDF7;
+	padding: 10px;
+}
